@@ -1,0 +1,1 @@
+Read repo docs; draft aicd-docs/plans/user_stories_plan.md with step checkboxes; create aicd-docs/story-artifacts/my_user_stories.md with INVEST stories and acceptance criteria; return only the plan in Chat; await ‘Approve. Proceed.’ before any edits; then apply changes and mark checkboxes

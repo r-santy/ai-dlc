@@ -1,0 +1,1 @@
+Generate the aicd-docs/ folder tree: plans, requirements, story-artifacts, design-artifacts, prompts, each with README.md; create aicd-docs/prompts.md explaining the DLC; open a new branch and stage changes as a PR; stop for approval.
